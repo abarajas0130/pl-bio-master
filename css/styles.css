@@ -1,0 +1,58 @@
+/* Your Website Styles */
+
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
+
+img {
+	width: 300px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-bottom: 20px;
+
+	}
+
+li {
+  list-style: none;
+  float: left;
+  margin: 0 5px 0 7px;
+}
+
+header, {
+	margin-left: auto;
+    margin-right: auto;
+    width: 6em
+
+}
+
+#name {
+	text-align: center;
+	margin: 40px 6px 40px 9px;
+	table-layout: center;
+}
+
+#visual{
+	text-align: center;
+	margin: 10px 6px 10px 9px;
+	table-layout: center;
+}
+#visual, #work, #work1, #work2, #work3, #work4 {
+	text-align: center;
+	margin: 0 6px 0 9px;
+	table-layout: center;
+}
+
+
+#add {
+	 padding-bottom: 50px;
+	 text-align: center;
+}
+
+#work5 {
+	table-layout: center;
+	width: 500px;
+	padding-top:  10px;
+}
